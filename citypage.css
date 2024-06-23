@@ -1,0 +1,66 @@
+#top {
+    background-image: url("images/bridge.jpg");
+    font-size: 100px;
+    padding-top: 245px;
+    padding-bottom: 245px;
+    text-align: center;
+    font-family: "Josefin Sans";
+    text-shadow: 0px 0px 100px white;
+    background-size: cover;
+}
+
+body {
+    margin: 0px;
+    background-color: #DFCED4;
+}
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+    font-family: "BioRhyme", serif;
+    color: #12201A;
+}
+
+#red {
+    color: red;
+}
+
+#middle {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lists {
+    background-color: #1D2930;
+    padding: 20px 40px;
+    width: 400px;
+    font-family: "BioRhyme", serif;
+    border-radius: 50px;
+    color: #DFCED4;
+    margin-bottom: 100px;
+}
+
+li {
+    font-size: 30px;    
+
+}
+
+h3 {
+    font-size: 50px;
+    font-family: "Josefin Sans";
+}
+
+#end {
+    background-color: #091211;
+    color: #F7F2D9;
+    padding: 100px;
+}
+
+p {
+    font-size: 30px;
+    font-family: "Old Standard TT", serif;
+}
+
+#sign-off {
+    font-style: italic;
+}
